@@ -1,0 +1,1053 @@
+
+
+
+    {
+      "wallpaper": "https://picsum.photos/1080/",
+      "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/wuheng18_212.jar",
+      "sites": [ 
+
+    {
+      "key":"Alist",
+      "name":"💖欢乐影视💖",
+      "type":3,
+      "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/j/alist.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/a/alist.json",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/custom_spider_tang.jar;md5;7B3DB472894CC021C4B19DAA26E1282A"
+    },
+    {
+      "key": "青苹果",
+      "name": "🍏青苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+    }, 
+    {
+      "key":"红苹果",
+      "name":"🍎红苹果",
+      "type":3,
+      "api":"csp_LiteApple",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg102.jar;md5;bc95d810af9fab60c0781280ba56d6b1"
+    },
+    {
+      "key":"csp_sp_龙门影视",
+      "name":"🐉龙门影视",
+      "type":3,"api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"  
+    },
+    {
+      "key":"BuLei",
+      "name":"💧布蕾蓝光",
+      "type":3,"api":"csp_BuLei",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/布蕾蓝光.jar;md5;E8F444CDA5A3FE0F21B31DB313E93753"
+    },
+    {
+      "key":"csp_Xinsj",
+      "name":"🌟新视觉",
+      "type":3,
+      "api":"csp_Xinsj",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/新视觉.jar;md5;270DBFA23C76AFCA73CD7E5D1430F23C"
+    },
+    {
+      "key":"快看",
+      "name":"👀快看影视",
+      "type":3,"api":"csp_Kuaikan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"
+    },
+    {
+      "key":"csp_xBPQ_爱看",
+      "name":"📺爱看影视",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/json/爱看影视.json",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8"
+    },
+    {
+      "key":"csp_Lgyy",
+      "name":"💧蓝光影院",
+      "type":3,
+      "api":"csp_Lgyy",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8" 
+    },
+    {
+      "key":"csp_Yht",
+      "name":"🌷野荷塘",
+      "type":3,
+      "api":"csp_Yht",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://yehetang.cc",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"csp_Cokemv",
+      "name":"🍹可乐",
+      "type":3,
+      "api":"csp_Cokemv",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"csp_fantuan",
+      "name":"🍙饭团",
+      "type":3,
+      "api":"csp_Fantuan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.fantuanhd.com",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"csp_sp_360影视",
+      "name":"🥎官方┃360影视",
+      "api":"csp_SP360",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+    },
+    {
+      "key":"csp_sp_腾讯视频",
+      "name":"🐧官方┃腾讯视频",
+      "type":3,
+      "api":"csp_QQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+    },
+    {
+      "key":"csp_sp_奇艺视频",
+      "name":"🥝官方┃奇艺视频",
+      "type":3,
+      "api":"csp_IQIYI",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+    },
+    {
+      "key":"csp_sp_芒果视频",
+      "name":"🥭官方┃芒果视频",
+      "type":3,
+      "api":"csp_MGTV",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+    },
+    {
+      "key":"cps_xp_优酷视频",
+      "name":"👑官方┃优酷视频",
+      "type":0,
+      "api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片"],
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+    },
+    {
+      "key" : "drpy_js_酷云77",
+      "name" : "👒酷云77[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/酷云77.js"
+    },
+    {
+      "key" : "drpy_js_乐猪TV",
+      "name" : "🐷乐猪TV[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/乐猪TV.js"
+    },
+    {
+      "key" : "drpy_js_优酷",
+      "name" : "👑优酷[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/优酷.js"
+    },
+    {
+      "key" : "drpy_js_360影视",
+      "name" : "🥎360影视[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/360影视.js"
+    },
+    {
+      "key" : "drpy_js_百忙无果",
+      "name" : "🥭百忙无果[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/百忙无果.js"
+    },
+    {
+      "key" : "drpy_js_奇珍异兽",
+      "name" : "🍨奇珍异兽[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/奇珍异兽.js"
+    },
+    {
+      "key" : "drpy_js_腾云驾雾",
+      "name" : "🦄腾云驾雾[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/腾云驾雾.js"
+    },
+    {
+      "key" : "drpy_js_爱看电影",
+      "name" : "📸爱看电影[DRPY]",
+      "type" : 3,
+      "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/爱看电影.js"
+    },
+    {
+      "key": "py_kunyu77",
+      "name": "👒酷云77py",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_kunyu77.py"
+    },
+    {
+      "key": "py_lezhu",
+      "name": "🐷乐猪影视py",
+      "type": 3,
+      "api": "py_lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_lezhu.py"
+    },
+    {
+      "key" : "py_bilimd",
+      "name" : "🅱哔哩影视py",
+      "type" : 3,
+      "api" : "py_bilimd",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_bilimd.py"
+    },
+    {
+      "key":"csp_Anime1",
+      "name":"🌸动漫",
+      "type":3,
+      "api":"csp_Anime1",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"csp_Dm84",
+      "name":"🚌动漫巴士",
+      "type":3,
+      "api":"csp_Dm84",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"Ying",
+      "name":"🌸樱花",
+      "type":3,
+      "api":"csp_Ying",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key":"Ysj",
+      "name":"📮异世界",
+      "type":3,
+      "api":"csp_Ysj",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+    },
+    {
+      "key": "py_alist",
+      "name": "🗂Alistpy",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_alist.py"
+    },
+    {
+      "key":"csp_AList0a",
+      "name":"🗂AList(SP)",
+      "type":3,
+      "api":"csp_Alist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jumpDetail":0,
+      "reversePlay":0,
+      "enable":1,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist.json",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile2.jar;md5;FE325993A7A775E29DB0FA35ADD5787D"
+    },
+    {
+      "key":"csp_Alist0b",
+      "name":"🗂网盘合集(SP)",
+      "type":3,
+      "api":"csp_AList",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jumpDetail":0,
+      "reversePlay":0,
+      "enable":1,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist1.json",
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile.jar;md5;6A090957BA13E25AC84C8AB6A87F6F22"
+    },
+    {
+      "key": "csp_Alist",
+      "name": "🔞🈲🗂Alist",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/a1/Alist.json"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "🔞🈲91传媒",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key":"*91麻豆",
+      "name":"🔞🈲91麻豆",
+      "type":1,
+      "api":"https://91md.me/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key": "麻豆视频",
+      "name": "🔞🈲麻豆视频",
+      "type": 0,
+      "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "(18+)环亚资源",
+      "name": "🔞🈲(18+不错)环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "(18+)速度资源",
+      "name": "🔞🈲(18+)速度资源",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "ms4nii",
+      "name": "🔞🈲美少女资源",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "KxrbspE",
+      "name": "🔞🈲淫水机资源",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "gdlsE",
+      "name": "🔞🈲香奶儿资源",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "kxgav",
+      "name": "🔞🈲白嫖资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "afasu",
+      "name": "🔞🈲小湿妹资源",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "KpgxdyE",
+      "name": "🔞🈲黄A资源",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "ap4i156dlyE",
+      "name": "🔞🈲奶茶资源",
+      "type": 0,
+      "api": "https://caiji.naichaapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "*丝袜资源",
+      "name": "🔞🈲丝袜资源",
+      "type": 1,
+      "api": "https://siwazyw.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "一本道资源",
+      "name": "🔞🈲一本道资源",
+      "type": 0,
+      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "日本AV在线",
+      "name": "🔞🈲日本AV在线",
+      "type": 0,
+      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "影库资源",
+      "name": "🔞🈲影库资源",
+      "type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key":"*影库资源",
+      "name":"🔞🈲影库",
+      "type":1,
+      "api":"https://api.ykapi.net/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key": "屌丝",
+      "name": "🔞🈲屌丝",
+      "type": 0,
+      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "CK资源",
+      "name": "🔞🈲CK资源",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "点点娱乐",
+      "name": "🔞🈲点点",
+      "type": 0,
+      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "色屌丝资源",
+      "name": "🔞🈲色屌丝资源",
+      "type": 0,
+      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "zp157",
+      "name": "🔞🈲熊猫资源",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "zp116",
+      "name": "🔞🈲泡芙资源",
+      "type": 0,
+      "api": "http://zmcj88.com/api?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "玖玖资源",
+      "name": "🔞🈲玖玖资源",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "利来资源",
+      "name": "🔞🈲利来资源",
+      "type": 0,
+      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "鲍鱼AV",
+      "name": "🔞🈲鲍鱼AV",
+      "type": 0,
+      "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "青青草视频",
+      "name": "🔞🈲青青草视频",
+      "type": 0,
+      "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "亚洲成人在线",
+      "name": "🔞🈲亚洲成人在线",
+      "type": 0,
+      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "花魁资源",
+      "name": "🔞🈲花魁资源",
+      "type": 1,
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "夜夜撸资源",
+      "name": "🔞🈲夜夜撸资源",
+      "type": 0,
+      "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "AV集中淫",
+      "name": "🔞🈲AV集中淫",
+      "type": 0,
+      "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "黄瓜TV资源",
+      "name": "🔞🈲黄瓜TV资源",
+      "type": 0,
+      "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "大香蕉资源",
+      "name": "🔞🈲大香蕉资源",
+      "type": 0,
+      "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "我要啪啪",
+      "name": "🔞🈲我要啪啪",
+      "type": 0,
+      "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "大屌丝资源",
+      "name": "🔞🈲大屌丝资源",
+      "type": 0,
+      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "水蜜桃",
+      "name": "🔞🈲水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key": "zp011",  
+      "name": "🔞🈲78乐播",
+      "type":0, 
+      "api":"https://lbapi9.com/api.php/provide/vod/at/xml/", 
+      "searchable": 1,
+      "quickSearch": 1,  
+      "filterable":0 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"*酷豆资源",
+      "name":"🔞🈲酷豆",
+      "type":1,
+      "api":"https://kudouzy.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"*酷豆2",
+      "name":"🔞🈲酷豆2",
+      "type":1,
+      "api":"https://api.kdapi.info/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"*酷伦理",
+      "name":"🔞🈲酷伦理",
+      "type":1,
+      "api":"https://api.kudian70.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    { 
+      "key": "(18+)JAV名优", 
+      "name": "🔞🈲JAV优", 
+      "type": 0, 
+      "api": "http://mygzycj.com/api.php?ac=list", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0 ,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67" 
+    },
+    {
+      "key":"环",
+      "name":"🔞🈲环",
+      "type":0,
+      "api":"http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"狼",
+      "name":"🔞🈲狼",
+      "type":0,
+      "api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "playUrl":"","categories":[],"quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"乐",
+      "name":"🔞🈲乐",
+      "type":1,
+      "api":"https://lbapi9.com/api.php/provide/vod/",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"J",
+      "name":"🔞🈲J",
+      "type":0,
+      "api":"http://mygzycj.com/api.php?ac=list",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"S",
+      "name":"🔞🈲S",
+      "type":0,
+      "api":"http://secj8.com/inc/sapi.php?ac=videolist",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"速",
+      "name":"🔞🈲速",
+      "type":0,
+      "api":"http://www.ggmmzy.com:9999/inc/xml",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "searchable":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"天",
+      "name":"🔞🈲天",
+      "type":0,
+      "api":"http://bttcj.com/inc/sapi.php?ac=videolist",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"番",
+      "name":"🔞🈲番",
+      "type":1,
+      "api":"http://fhapi9.com/api.php/provide/vod/",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"玖",
+      "name":"🔞🈲玖",
+      "type":0,
+      "api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"秀",
+      "name":"🔞🈲秀",
+      "type":1,
+      "api":"https://api.xiuseapi.com/api.php/provide/vod/",
+      "playUrl":"",
+      "categories":[],
+      "quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key":"*精工厂资源",
+      "name":"🔞🈲精工厂资源",
+      "type":0,
+      "api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+      "searchable":0,"quickSearch":0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    },
+    {
+      "key": "KK写真资源",
+      "name": "🔞🈲KK写真资源-伦理",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+    },
+    {
+      "key":"drpy_js_猫了个咪",
+      "name":"🔞🈲🈲猫了个咪[DRPY18]",
+      "type":3,
+      "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/猫了个咪.js"
+   },
+   {
+     "key":"drpy_js_吸瓜",
+     "name":"🔞🈲🈲吸瓜[DRPY18]",
+     "type":3,
+     "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/吸瓜.js"
+   },
+   {
+     "key":"drpy_js_黄瓜TV",
+     "name":"🔞🈲🈲黄瓜TV[DRPY18]",
+     "type":3,
+     "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/黄瓜TV.js"
+   },
+   {
+     "key":"drpy_js_banan",
+     "name":"🔞🈲🈲banan[DRPY18]",
+     "type":3,
+     "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/banan.js"
+   },
+   {
+     "key":"drpy_js_18av",
+     "name":"🔞🈲🈲18av[DRPY18]",
+     "type":3,
+     "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/18av.js"
+   },
+   {
+     "key": "drpy_js_养端",
+     "name": "🔞🈲养端（DRPY）",
+     "type": 3,
+     "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/养端.js"
+   },
+   {
+     "key" : "drpy_js_玩偶姐姐",
+     "name" : "🔞🈲玩偶姐姐[DRPY18]",
+     "type" : 3,
+     "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/玩偶姐姐.js"
+   },
+   {
+     "key" : "drpy_js_朱古力",
+     "name" : "🔞🈲朱古力[DRPY18]",
+     "type" : 3,
+     "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/朱古力.js"
+   },
+   {
+     "key" : "drpy_js_Missav",
+     "name" : "🔞🈲Missav[DRPY18]",
+     "type" : 3,
+     "api" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/js/Missav.js"
+   }
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3d1aGVuZzQyL3R2L3NyYy9icmFuY2gvbWFzdGVyL1pCY3IyMDIyMTEyNDE5MjMudHh0"
+          ]
+        }
+      ]
+    }
+  ],
+"parses":[
+{
+"name":"解析聚合",
+"type":3,
+"url":"Demo"
+},
+{
+"name":"Json并发",
+"type":2,
+"url":"Parallel"
+},
+{
+"name":"Json轮询",
+"type":2,
+"url":"Sequence"
+},
+
+ {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      } },
+
+{
+"name":"解析1",
+"type":1,
+"url":"http://ld.grelighting.cn/parser/?url="
+},
+ {
+      "name": "解析2",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+
+
+
+ {"name":"解析3","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+
+
+{
+"name":"解析4",
+"type":1,
+"url":"http://pandown.pro/app/ysmjx.php?url="
+},
+{
+"name":"解析5",
+"type":0,
+"url":"https://jx.parwix.com:4433/player/?url="
+},
+{"name":"解析6","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},{"name":"解析7","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},{"name":"解析8","type":0,"url":"https://okjx.cc/?url="},{"name":"解析9","type":0,"url":"https://www.yemu.xyz/?url="},{"name":"解析10","type":0,"url":"https://jx.xmflv.com/?url="},{"name":"解析11","type":0,"url":"https://parse.123mingren.com/?url="},{"name":"解析12","type":0,"url":"http://www.ckmov.vip/api.php?url="},{"name":"解析13","type":0,"url":"http://api.wpsseo.cn/?v="},{"name":"解析14","type":0,"url":"https://go.yh0523.cn/y.cy?url="},{"name":"解析15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},{"name":"解析16","type":0,"url":"https://svip.bljiex.cc/?v="}],"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
