@@ -1,0 +1,60 @@
+{
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/蜂蜜在线.jar",
+  	"lives": [{
+		"name": "直播",
+		"type": 0,
+		"playerType": 1,
+		"boot": false,
+		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
+	}],
+  "wallpaper": "https://gao.chuqiuyu.tk",
+  "sites": [
+    {
+      "key": "AList",
+      "name": "公众号（玉玉软件库）",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "AV",
+            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+          }
+        ]
+      }
+    },
+   
+
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0
+    }
+  ],
+  "rules": [
+    {
+      "name": "量子廣告",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "非凡廣告",
+      "hosts": [
+        "vip.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    }
+  ]
+}

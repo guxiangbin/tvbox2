@@ -1,0 +1,475 @@
+{
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/官源无广.jar",
+  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+  "sites": [
+        {
+            "key": "js豆瓣",
+            "name": "🎯官源|公众号:千软汇",
+            "type": 3,
+            "api": "http://43.248.128.141:82/jk/lib/drpy2.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://43.248.128.141:82/jk/lib/douban.js"
+        },
+        {
+            "key":"Wogg",
+            "name":"👽阿里 | 玩偶哥哥",
+            "type":3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar":"http://www.liuyunw.com:88/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "drpy_优酷",
+            "name": "优酷",
+            "type": 3,
+            "api": "http://43.248.128.141:82/jk/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.128.141:82/jk/lib/youku.js"
+        },
+        {
+            "key": "drpy_腾讯",
+            "name": "腾讯",
+            "type": 3,
+            "api": "http://43.248.128.141:82/jk/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.128.141:82/jk/lib/txqq.js"
+        },
+        {
+            "key": "drpy_爱奇艺",
+            "name": "爱奇艺",
+            "type": 3,
+            "api": "http://43.248.128.141:82/jk/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.128.141:82/jk/lib/iqy.js"
+        },
+       
+        {
+            "key": "drpy_芒果",
+            "name": "芒果",
+            "type": 3,
+            "api": "http://43.248.128.141:82/jk/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.128.141:82/jk/lib/mangguo.js"
+        },
+       {
+            "key":"龙龙采集",
+            "name":"壹梦采集",
+            "type":1,
+            "api":"http://110.42.99.99:3976/api.php/provide/vod/?ac=list",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+        {
+      "key": "dr_兔小贝",
+      "name": "儿童启蒙",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "少儿教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "高中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+    },
+    {
+      "key": "csp_qiumi",
+      "name": "赛事直播",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_310直播",
+      "name": "体彩看球",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    
+    {
+      "key": "Aid",
+      "name": "实用急救教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+   
+      }    
+      },
+    {
+      "key": "MTV",
+      "name": "无损音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
+    }
+    
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "壹梦解析",
+      "type": 1,
+      "url": "http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=332539&key=afhjoptAHILMQRTV49&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+      "name": "壹梦嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "hwk",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk88"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz1",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "18.5333"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "25.0666"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+"ijk":[
+{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
+{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
+  "lives": [
+    {
+      "name": "SAO0",
+      "type": 0,
+      "url": "http://qrh.yimkj.cn/直播源.php",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
