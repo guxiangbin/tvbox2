@@ -2,14 +2,14 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "丽人行科技4K接口   ",
+      "name": "丽人行科技4K接口 ",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "接口即将停止，进群215998789获取       ",
+      "name": "丽人行科技4K接口  ",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy33.com/"
+      "ext": "https://www.czys.top/"
     },
     {
       "key": "天天",
@@ -70,7 +70,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://fanty.run.goorm.site/ext/nmys.json"
+      "ext": "https://raw.githubusercontent.com/guxiangbin/tvbox2/main/json/nmys.json"
     },
     {
       "key": "csp_觅知",
