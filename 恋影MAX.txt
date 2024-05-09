@@ -1,0 +1,162 @@
+{
+"wallpaper": "https://xhdwc.tk/api/img.php",
+"sites":[
+
+    {
+      "key": "恋影应用商店",
+      "name": "恋影应用商店 官网 www.lianyingmax.com",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "http://lianying.free3v.work/shichang.json",
+      "jar": "http://lianying.free3v.work/shichang.jar;md5;c2b3f4613dff3e3e7caaab9acd4a4af0"
+    },
+
+{"jar":"http://lianying.free3v.work/996-yiqikan-kuaikan.jar;md5;45be8ec4577aff11df83a8e8e5878522","key":"试看线路1","name":"试看线路1","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1},
+
+{"jar":"http://lianying.free3v.work/pg.nogo.png;md5;cd43553a60d2f98259297a7110b571e2","key":"试看线路2","name":"试看线路2","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+    
+{"key":"47i","name":"恋影官网：","type":3,"api":"7","ext":"1","searchable":0},
+{"key":"48i","name":"www.lianyingtv.com","type":3,"api":"8","ext":"1","searchable":0},
+{"key":"49i","name":"www.lianyingmax.com","type":3,"api":"9","ext":"1","searchable":0},
+
+
+
+{"key":"01A1","name":"██████","type":3,"api":"1","searchable":0},
+{"key":"02A2","name":"██████","type":3,"api":"1","searchable":0},
+{"key":"0A33","name":"██████","type":3,"api":"1","searchable":0},
+{"key":"10A111","name":"下面是恋影线路","type":3,"api":"1","searchable":0},
+{"key":"102A22","name":"需要下载恋影后","type":3,"api":"1","searchable":0},
+{"key":"1033A3","name":"才可以解锁使用","type":3,"api":"1","searchable":0},
+{"key":"101A111","name":"恋影界面简洁","type":3,"api":"1","searchable":0},
+{"key":"102A222","name":"内置蓝光高速线路","type":3,"api":"1","searchable":0},
+{"key":"103A333","name":"更适合懒人使用","type":3,"api":"1","searchable":0},
+{"key":"01AA12","name":"██████","type":3,"api":"1","searchable":0},
+{"key":"0A22A1","name":"██████","type":3,"api":"1","searchable":0},
+{"key":"03A31","name":"██████","type":3,"api":"1","searchable":0},
+
+{"key":"会员线路3","name":"会员线路3","type":3,"api":"1","searchable":0},
+{"key":"会员线路4","name":"会员线路4","type":3,"api":"1","searchable":0},
+{"key":"会员线路5","name":"会员线路5","type":3,"api":"1","searchable":0},
+
+
+
+
+{"key":"会员线路6","name":"会员线路6","type":3,"api":"1","searchable":0},
+{"key":"会员线路7","name":"会员线路7","type":3,"api":"1","searchable":0},
+{"key":"会员线路8","name":"会员线路8","type":3,"api":"1","searchable":0},
+
+
+
+
+
+
+{"key":"会员线路9","name":"会员线路9","type":3,"api":"1","searchable":0},
+{"key":"会员线路10","name":"会员线路10","type":3,"api":"1","searchable":0},
+{"key":"会员线路11","name":"会员线路11","type":3,"api":"1","searchable":0},
+{"key":"会员线路12","name":"会员线路12","type":3,"api":"1","searchable":0},
+{"key":"会员线路13","name":"会员线路13","type":3,"api":"1","searchable":0},
+{"key":"会员线路14","name":"会员线路14","type":3,"api":"1","searchable":0},
+{"key":"会员线路15","name":"会员线路15","type":3,"api":"1","searchable":0},
+{"key":"会员线路16","name":"会员线路16","type":3,"api":"1","searchable":0},
+{"key":"会员线路17","name":"会员线路17","type":3,"api":"1","searchable":0},
+{"key":"会员线路18","name":"会员线路18","type":3,"api":"1","searchable":0},
+{"key":"会员线路19","name":"会员线路19","type":3,"api":"1","searchable":0},
+{"key":"会员线路20","name":"会员线路20","type":3,"api":"1","searchable":0},
+{"key":"会员线路21","name":"会员线路21","type":3,"api":"1","searchable":0},
+{"key":"会员线路22","name":"会员线路22","type":3,"api":"1","searchable":0},
+{"key":"会员线路23","name":"会员线路23","type":3,"api":"1","searchable":0},
+{"key":"会员线路24","name":"会员线路24","type":3,"api":"1","searchable":0},
+{"key":"会员线路25","name":"会员线路25","type":3,"api":"1","searchable":0},
+{"key":"会员线路26","name":"会员线路26","type":3,"api":"1","searchable":0},
+{"key":"会员线路27","name":"会员线路27","type":3,"api":"1","searchable":0},
+{"key":"会员线路28","name":"会员线路28","type":3,"api":"1","searchable":0},
+{"key":"会员线路29","name":"会员线路29","type":3,"api":"1","searchable":0},
+{"key":"会员线路30","name":"会员线路30","type":3,"api":"1","searchable":0},
+{"key":"会员线路31","name":"会员线路31","type":3,"api":"1","searchable":0},
+{"key":"会员线路32","name":"会员线路32","type":3,"api":"1","searchable":0},
+{"key":"会员线路33","name":"会员线路33","type":3,"api":"1","searchable":0},
+{"key":"会员线路34","name":"会员线路34","type":3,"api":"1","searchable":0},
+{"key":"会员线路35","name":"会员线路35","type":3,"api":"1","searchable":0},
+//{"key":"热门推荐","name":"热门推荐","type":3,"api":"http://www.lianyingtv.com/11/tv/lib/drpy2.min.js","ext":"http://www.lianyingtv.com/11/tv/lib/drpy.js"},
+
+
+
+{"key":"7i","name":"官网：","type":3,"api":"7","ext":"1","searchable":0},
+{"key":"8i","name":"www.lianyingtv.com","type":3,"api":"8","ext":"1","searchable":0},
+{"key":"9i","name":"www.lianyingmax.com","type":3,"api":"9","ext":"1","searchable":0}
+],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="
+          ]
+        }
+      ]
+    }
+  ],
+"parses":[
+{
+"name":"恋影1",
+"type":0,
+"url":"https://jx.haokantv.cyou/player/?url=",
+"ext":{
+"flag":[
+"qq",
+"腾讯",
+"qiyi",
+"爱奇艺",
+"奇艺",
+"youku",
+"优酷",
+"mgtv",
+"芒果",
+"letv",
+"leshi",
+"LS",
+"pptv",
+"PPTV",
+"sohu",
+"bilibili",
+"哔哩哔哩",
+"哔哩"
+],
+"header":{
+"User-Agent":""
+}
+}
+},
+{
+"name":"恋影2",
+"type":0,
+"url":"https://yparse.ik9.cc/index.php?url="
+}
+],
+"flags":[
+"youku",
+"qq",
+"iqiyi",
+"qiyi",
+"letv",
+"sohu",
+"tudou",
+"pptv",
+"mgtv",
+"wasu"
+],
+
+
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/恋影MAX.jar"
+
+
+
+
+
+
+}
