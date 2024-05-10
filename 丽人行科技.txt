@@ -11,7 +11,7 @@
     },
     {
             "key": "开心自营",
-            "name": "开心自营 ",
+            "name": "开心自营-丽人行科技 ",
             "type": 1,
             "api": "http://www.ttkx.site/api.php/provide/vod/",
             "playerType": 2,
