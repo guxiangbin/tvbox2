@@ -1,5 +1,5 @@
 {
-  //"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/TTF接口.jar",
+  //"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/jar/TTF接口.jar",
   //"spider":"https://agit.ai/Doudou/TVbox/raw/branch/master/jar/XBiubiuLA4.jar",
   //"spider":"https://agit.ai/Doudou/TVbox/raw/branch/master/jar/file.jar",
   //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
